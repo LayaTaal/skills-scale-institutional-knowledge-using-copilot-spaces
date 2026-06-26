@@ -97,6 +97,13 @@ QA / Testers validate that delivered work meets acceptance criteria, quality sta
 - Test summary reports and release sign-off
 - Coordination with Developers on fix verification and edge cases
 
+#### Interaction with Existing Roles
+- **Developers:** Works closely to clarify acceptance criteria before implementation begins and verifies fixes promptly to reduce cycle time.
+- **Product Manager:** Raises quality risks that may affect scope or release readiness; provides evidence to support prioritization of defect backlog.
+- **Project Manager:** Delivers release sign-off and communicates known issues or deferred defects that affect go/no-go decisions.
+- **UX Designer / Researcher:** Validates delivered UI against design specifications and flags fidelity gaps or accessibility failures.
+- **DevOps / SRE:** Coordinates smoke test execution in staging and post-deploy verification after production releases.
+
 ---
 
 ## Engineering Manager
